@@ -1,5 +1,6 @@
 # budget_manager
-That`s a training project for learning python, a programm for managing money
+That`s a training project for learning python, a programm for managing money  
+
 Проєкт: “Менеджер покупок”
 Створити невелику консольну програму, яка допомагає користувачу планувати покупки, рахувати суму, зберігати дані у файл і завантажувати їх при повторному запуску.
 
@@ -11,8 +12,9 @@ That`s a training project for learning python, a programm for managing money
 4. Зберегти у файл
 5. Завантажити з файлу
 6. Вихід
-Ваш вибір: 1
-Введіть назву товару: Хліб
-Введіть кількість: 2
-Введіть ціну за одиницю: 25
+
+Ваш вибір: 1  
+Введіть назву товару: Хліб  
+Введіть кількість: 2  
+Введіть ціну за одиницю: 25  
 ✅ Хліб додано до списку!
